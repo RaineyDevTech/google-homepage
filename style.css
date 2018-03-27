@@ -1,0 +1,59 @@
+.header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+padding-left: 15px;
+color: #000;
+opacity: 0.75
+
+border: none;
+	background-color: rgb(242,242,242);
+	color: rgb(117,117,117);
+	font-size: 13px;
+font-family: arial,sans-serif;
+}
+
+ul {
+    list-style-type: none;
+   
+}
+
+
+
+
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    padding-top: 120px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.search_form{
+	text-align: center;
+}
+
+input{
+	line-height: 34px;
+height: 34px !important;
+width: 600px;
+ border: 1px solid #b8afaf;
+}
+
+
+form {
+    display: inline-block;
+    text-align: center;
+}
+
+
+button {
+	border: none;
+	background-color: rgb(242,242,242);
+	color: rgb(117,117,117);
+	font-size: 13px;
+	font-family: arial, sans-serif;
+}
